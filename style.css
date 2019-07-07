@@ -1,0 +1,51 @@
+body
+{
+	background-color: lightgoldenrodyellow;
+}
+
+#hi
+{
+	border: 1px solid yellowgreen;
+	width: 400px;
+	height: 380px;
+	border-radius: 20px;
+
+
+}
+
+form
+{
+	margin-top: 80px;
+
+}
+
+#table
+{
+	margin-top: -50px;
+}
+input
+{
+	border-radius:5px; 
+}
+#but
+{
+	margin-top: 50px;
+}
+
+legend
+{
+	color: white;
+	background-color: yellowgreen;
+	height:40px;
+	width: 400px;
+	border-radius: 15px;
+}
+#login
+{
+	margin-top: 40px;
+	font-family: 
+}
+p
+{
+	margin-top: 10px;
+}
